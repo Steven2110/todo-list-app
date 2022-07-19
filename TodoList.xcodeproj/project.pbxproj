@@ -13,6 +13,7 @@
 		B06BD1612885DA9C00964F0E /* ListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B06BD1602885DA9C00964F0E /* ListView.swift */; };
 		B06BD1632885DBD900964F0E /* ListRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B06BD1622885DBD900964F0E /* ListRowView.swift */; };
 		B06BD1652885DD7500964F0E /* AddView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B06BD1642885DD7500964F0E /* AddView.swift */; };
+		B06BD16728867F0B00964F0E /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = B06BD16628867F0B00964F0E /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		B06BD1602885DA9C00964F0E /* ListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListView.swift; sourceTree = "<group>"; };
 		B06BD1622885DBD900964F0E /* ListRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListRowView.swift; sourceTree = "<group>"; };
 		B06BD1642885DD7500964F0E /* AddView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddView.swift; sourceTree = "<group>"; };
+		B06BD16628867F0B00964F0E /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -39,6 +41,7 @@
 		B06BD1452885DA8600964F0E = {
 			isa = PBXGroup;
 			children = (
+				B06BD16628867F0B00964F0E /* .gitignore */,
 				B06BD1502885DA8600964F0E /* TodoList */,
 				B06BD14F2885DA8600964F0E /* Products */,
 			);
@@ -140,6 +143,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B06BD1592885DA8700964F0E /* Preview Assets.xcassets in Resources */,
+				B06BD16728867F0B00964F0E /* .gitignore in Resources */,
 				B06BD1562885DA8700964F0E /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
