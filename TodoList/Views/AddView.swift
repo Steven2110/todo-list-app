@@ -45,10 +45,7 @@ struct AddView: View {
     func saveButtonPressed() {
         if textIsAppropriate() {
             listViewModel.addItem(title: textFieldTitle)
-            presentationMode.wrappedValue.dismiss()
-            
-        } else {
-            
+            presentationMode.wrappedValue.dismiss()   
         }
     }
     
